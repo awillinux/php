@@ -4,4 +4,4 @@
    become: yes
   
    roles:
-   - /roles/projects/php
+   - roles/projects/php
