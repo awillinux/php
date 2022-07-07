@@ -2,7 +2,6 @@
  - hosts: test
    gather_facts: no
    become: yes
-
+  
    roles:
    - /roles/projects/php
- 
